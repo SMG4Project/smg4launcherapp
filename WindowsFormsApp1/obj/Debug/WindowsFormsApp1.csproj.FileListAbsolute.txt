@@ -1,0 +1,11 @@
+C:\Users\Мастер\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SMG4 Launcher.exe.config
+C:\Users\Мастер\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SMG4 Launcher.exe
+C:\Users\Мастер\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SMG4 Launcher.pdb
+C:\Users\Мастер\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Мастер\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Мастер\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Мастер\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Мастер\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Мастер\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Мастер\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SMG4 Launcher.exe
+C:\Users\Мастер\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SMG4 Launcher.pdb
