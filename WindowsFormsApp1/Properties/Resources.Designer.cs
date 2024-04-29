@@ -63,6 +63,26 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _smg4__smg4__mar10_incident__by_215phoenix_dh1a1cc {
+            get {
+                object obj = ResourceManager.GetObject("_smg4__smg4__mar10_incident__by_215phoenix_dh1a1cc", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Brothercalmsearch {
+            get {
+                object obj = ResourceManager.GetObject("Brothercalmsearch", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap channels4_profile__1_ {
             get {
                 object obj = ResourceManager.GetObject("channels4_profile (1)", resourceCulture);
@@ -106,6 +126,36 @@ namespace WindowsFormsApp1.Properties {
         internal static System.Drawing.Bitmap SMG4_2019 {
             get {
                 object obj = ResourceManager.GetObject("SMG4-2019", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap smg4_rainbow_friends__by_mylittlepony41_dfyt8to {
+            get {
+                object obj = ResourceManager.GetObject("smg4_rainbow_friends__by_mylittlepony41_dfyt8to", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Tari_Plushie {
+            get {
+                object obj = ResourceManager.GetObject("Tari_Plushie", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Tf3BYu {
+            get {
+                object obj = ResourceManager.GetObject("Tf3BYu", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

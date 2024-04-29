@@ -45,7 +45,18 @@ namespace WindowsFormsApp1
 
         private void button5_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://github.com/vendettathevhsdvr/smg4osinpc/releases/download/Version_2/SMG4.OS.ON.PC.V02.zip");
+            //there nothing
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Form2 f = new Form2(); // This is bad
+            f.Show();
+        }
+
+        private void button5_Click_1(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://smg4project.github.io/smg4launcherserver/jd17pc_controller_fixer.bat");
         }
     }
 }
