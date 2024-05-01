@@ -63,6 +63,16 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _20225687_686254344917038_2403837219262431232_n_57ac1648da4e6d3afc755118a8e565be {
+            get {
+                object obj = ResourceManager.GetObject("20225687-686254344917038-2403837219262431232-n-57ac1648da4e6d3afc755118a8e565be", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _smg4__smg4__mar10_incident__by_215phoenix_dh1a1cc {
             get {
                 object obj = ResourceManager.GetObject("_smg4__smg4__mar10_incident__by_215phoenix_dh1a1cc", resourceCulture);
@@ -156,6 +166,16 @@ namespace WindowsFormsApp1.Properties {
         internal static System.Drawing.Bitmap Tf3BYu {
             get {
                 object obj = ResourceManager.GetObject("Tf3BYu", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Wrapper_offline_2023 {
+            get {
+                object obj = ResourceManager.GetObject("Wrapper_offline_2023", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

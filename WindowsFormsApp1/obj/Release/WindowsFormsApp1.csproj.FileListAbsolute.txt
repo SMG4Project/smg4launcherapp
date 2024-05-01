@@ -20,3 +20,4 @@ D:\Windows для vm\smg4launcherapp-main\smg4launcherapp-main\WindowsFormsApp1\
 D:\Windows для vm\smg4launcherapp-main\smg4launcherapp-main\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 D:\Windows для vm\smg4launcherapp-main\smg4launcherapp-main\WindowsFormsApp1\obj\Release\SMG4 Launcher.exe
 D:\Windows для vm\smg4launcherapp-main\smg4launcherapp-main\WindowsFormsApp1\obj\Release\SMG4 Launcher.pdb
+C:\Users\Мастер\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form2.resources

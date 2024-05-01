@@ -43,5 +43,15 @@ namespace WindowsFormsApp1
         {
 
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/Wrapper-Offline/Wrapper-Offline/releases/download/v2.0.0/wrapper-offline-win32-x64.zip");
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/Newbilius/PS1VideoCDCreator/releases/download/v1.1/PS1VideoCDCreator_1.1.7z.7z");
+        }
     }
 }

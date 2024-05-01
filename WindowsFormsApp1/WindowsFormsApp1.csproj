@@ -117,6 +117,8 @@
     <None Include="Resources\Brothercalmsearch.png" />
     <None Include="Resources\Tari_Plushie.png" />
     <None Include="Resources\Tf3BYu.png" />
+    <None Include="Resources\Wrapper_offline_2023.png" />
+    <None Include="Resources\20225687-686254344917038-2403837219262431232-n-57ac1648da4e6d3afc755118a8e565be.jpg" />
     <Content Include="SMG4_PFP_from_July_31__2023.ico" />
     <Content Include="TextTemplate.ico" />
   </ItemGroup>
