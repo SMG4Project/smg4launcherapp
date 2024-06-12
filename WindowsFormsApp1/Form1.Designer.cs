@@ -37,11 +37,17 @@
             this.label1 = new System.Windows.Forms.Label();
             this.button5 = new System.Windows.Forms.Button();
             this.button7 = new System.Windows.Forms.Button();
+            this.button8 = new System.Windows.Forms.Button();
+            this.button9 = new System.Windows.Forms.Button();
+            this.pictureBox7 = new System.Windows.Forms.PictureBox();
+            this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -51,7 +57,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(417, 21);
+            this.button1.Location = new System.Drawing.Point(659, 157);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(108, 23);
             this.button1.TabIndex = 1;
@@ -61,7 +67,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(417, 50);
+            this.button2.Location = new System.Drawing.Point(659, 186);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(108, 44);
             this.button2.TabIndex = 2;
@@ -95,14 +101,14 @@
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(157, 34);
             this.button6.TabIndex = 10;
-            this.button6.Text = "Harold News Channel";
+            this.button6.Text = "Harold News Channel (NEED WII)";
             this.button6.UseVisualStyleBackColor = true;
             this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(547, 177);
+            this.label1.Location = new System.Drawing.Point(642, 413);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(114, 13);
             this.label1.TabIndex = 11;
@@ -120,13 +126,53 @@
             // 
             // button7
             // 
-            this.button7.Location = new System.Drawing.Point(573, 309);
+            this.button7.Location = new System.Drawing.Point(692, 444);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(75, 23);
             this.button7.TabIndex = 14;
             this.button7.Text = "-->";
             this.button7.UseVisualStyleBackColor = true;
             this.button7.Click += new System.EventHandler(this.button7_Click);
+            // 
+            // button8
+            // 
+            this.button8.Location = new System.Drawing.Point(12, 451);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(179, 28);
+            this.button8.TabIndex = 16;
+            this.button8.Text = "SMG4 IPTV";
+            this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
+            // 
+            // button9
+            // 
+            this.button9.Location = new System.Drawing.Point(211, 451);
+            this.button9.Name = "button9";
+            this.button9.Size = new System.Drawing.Size(212, 28);
+            this.button9.TabIndex = 18;
+            this.button9.Text = "remaster end of support windows xp";
+            this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
+            // 
+            // pictureBox7
+            // 
+            this.pictureBox7.Image = global::WindowsFormsApp1.Properties.Resources.PeEHqcsR31ntH7dbhRAFe7p3MxN3ZwFIEZVyX4rfJQH8qHm0Cq8gA_sdHsi8vwbFmvLGj_i3;
+            this.pictureBox7.Location = new System.Drawing.Point(211, 343);
+            this.pictureBox7.Name = "pictureBox7";
+            this.pictureBox7.Size = new System.Drawing.Size(212, 102);
+            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox7.TabIndex = 17;
+            this.pictureBox7.TabStop = false;
+            // 
+            // pictureBox6
+            // 
+            this.pictureBox6.Image = global::WindowsFormsApp1.Properties.Resources.tari_are_you_ok_v0_1pik8playskc1;
+            this.pictureBox6.Location = new System.Drawing.Point(12, 343);
+            this.pictureBox6.Name = "pictureBox6";
+            this.pictureBox6.Size = new System.Drawing.Size(179, 102);
+            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox6.TabIndex = 15;
+            this.pictureBox6.TabStop = false;
             // 
             // pictureBox4
             // 
@@ -171,7 +217,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::WindowsFormsApp1.Properties.Resources.Logo;
-            this.pictureBox1.Location = new System.Drawing.Point(531, -1);
+            this.pictureBox1.Location = new System.Drawing.Point(578, 236);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(189, 174);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -183,7 +229,11 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.ClientSize = new System.Drawing.Size(722, 349);
+            this.ClientSize = new System.Drawing.Size(779, 479);
+            this.Controls.Add(this.button9);
+            this.Controls.Add(this.pictureBox7);
+            this.Controls.Add(this.button8);
+            this.Controls.Add(this.pictureBox6);
             this.Controls.Add(this.button7);
             this.Controls.Add(this.pictureBox4);
             this.Controls.Add(this.button5);
@@ -197,11 +247,14 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.pictureBox1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";
             this.Text = "Launcher SMG4";
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
@@ -227,6 +280,10 @@
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.PictureBox pictureBox4;
         private System.Windows.Forms.Button button7;
+        private System.Windows.Forms.PictureBox pictureBox6;
+        private System.Windows.Forms.Button button8;
+        private System.Windows.Forms.PictureBox pictureBox7;
+        private System.Windows.Forms.Button button9;
     }
 }
 

@@ -103,6 +103,16 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap high_1716657566 {
+            get {
+                object obj = ResourceManager.GetObject("high-1716657566", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Leave_Us_A_Rating_jpeg {
             get {
                 object obj = ResourceManager.GetObject("Leave_Us_A_Rating.jpeg", resourceCulture);
@@ -133,6 +143,16 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap PeEHqcsR31ntH7dbhRAFe7p3MxN3ZwFIEZVyX4rfJQH8qHm0Cq8gA_sdHsi8vwbFmvLGj_i3 {
+            get {
+                object obj = ResourceManager.GetObject("PeEHqcsR31ntH7dbhRAFe7p3MxN3ZwFIEZVyX4rfJQH8qHm0Cq8gA-sdHsi8vwbFmvLGj-i3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap SMG4_2019 {
             get {
                 object obj = ResourceManager.GetObject("SMG4-2019", resourceCulture);
@@ -146,6 +166,26 @@ namespace WindowsFormsApp1.Properties {
         internal static System.Drawing.Bitmap smg4_rainbow_friends__by_mylittlepony41_dfyt8to {
             get {
                 object obj = ResourceManager.GetObject("smg4_rainbow_friends__by_mylittlepony41_dfyt8to", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap smg4_troll_face_moment_god_they_look_goofy_v0_05qb3m1a761b1 {
+            get {
+                object obj = ResourceManager.GetObject("smg4-troll-face-moment-god-they-look-goofy-v0-05qb3m1a761b1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tari_are_you_ok_v0_1pik8playskc1 {
+            get {
+                object obj = ResourceManager.GetObject("tari-are-you-ok-v0-1pik8playskc1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

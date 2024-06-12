@@ -53,5 +53,15 @@ namespace WindowsFormsApp1
         {
             System.Diagnostics.Process.Start("https://github.com/Newbilius/PS1VideoCDCreator/releases/download/v1.1/PS1VideoCDCreator_1.1.7z.7z");
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://vendettathevhsdvr.github.io/vendettawadswiisite/");
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/vendettathevhsdvr/trollvideodiscordlink");
+        }
     }
 }

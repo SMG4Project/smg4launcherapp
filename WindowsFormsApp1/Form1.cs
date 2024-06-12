@@ -58,5 +58,15 @@ namespace WindowsFormsApp1
         {
             System.Diagnostics.Process.Start("https://smg4project.github.io/smg4launcherserver/jd17pc_controller_fixer.bat");
         }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://smg4project.github.io/SMG4IPTV-Site/");
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://smg4project.github.io/smg4launcherserver/XP.End.of.support.application.exe");
+        }
     }
 }

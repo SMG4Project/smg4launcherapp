@@ -118,32 +118,14 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Brothercalmsearch" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Brothercalmsearch.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="high-1716657566" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\high-1716657566.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Tari_Plushie" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Tari_Plushie.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Wrapper_offline_2023" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Wrapper_offline_2023.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Leave_Us_A_Rating.jpeg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Leave_Us_A_Rating.jpeg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="smg4_rainbow_friends__by_mylittlepony41_dfyt8to" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\smg4_rainbow_friends__by_mylittlepony41_dfyt8to.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_smg4__smg4__mar10_incident__by_215phoenix_dh1a1cc" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\_smg4__smg4__mar10_incident__by_215phoenix_dh1a1cc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="tari-are-you-ok-v0-1pik8playskc1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tari-are-you-ok-v0-1pik8playskc1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="MenuScreen1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\MenuScreen1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="channels4_profile (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\channels4_profile (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Tf3BYu" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Tf3BYu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="SMG4-2019" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\SMG4-2019.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -151,7 +133,37 @@
   <data name="Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Tf3BYu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tf3BYu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="smg4_rainbow_friends__by_mylittlepony41_dfyt8to" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\smg4_rainbow_friends__by_mylittlepony41_dfyt8to.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="20225687-686254344917038-2403837219262431232-n-57ac1648da4e6d3afc755118a8e565be" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\20225687-686254344917038-2403837219262431232-n-57ac1648da4e6d3afc755118a8e565be.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_smg4__smg4__mar10_incident__by_215phoenix_dh1a1cc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\_smg4__smg4__mar10_incident__by_215phoenix_dh1a1cc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Wrapper_offline_2023" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Wrapper_offline_2023.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Brothercalmsearch" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Brothercalmsearch.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PeEHqcsR31ntH7dbhRAFe7p3MxN3ZwFIEZVyX4rfJQH8qHm0Cq8gA-sdHsi8vwbFmvLGj-i3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PeEHqcsR31ntH7dbhRAFe7p3MxN3ZwFIEZVyX4rfJQH8qHm0Cq8gA-sdHsi8vwbFmvLGj-i3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="channels4_profile (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\channels4_profile (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leave_Us_A_Rating.jpeg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Leave_Us_A_Rating.jpeg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tari_Plushie" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tari_Plushie.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="smg4-troll-face-moment-god-they-look-goofy-v0-05qb3m1a761b1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\smg4-troll-face-moment-god-they-look-goofy-v0-05qb3m1a761b1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
